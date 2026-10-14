@@ -24,9 +24,8 @@ Cliente → API de Pedidos → PostgreSQL
 Pré-requisito: Docker Desktop instalado e em execução.
 
 ```bash
-git clone https://github.com/gioguedes/api-pedidos.git
+git clone https://github.com/Patokaz/api-pedidos.git
 cd api-pedidos
-git checkout APIPedidos-1-final
 docker compose up -d --build
 ```
 
